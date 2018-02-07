@@ -1,9 +1,6 @@
 {
   "short_name": "Psychotherapy",
   "name": "Nicole Nemiroff Psychotherapy",
-  "icons": [
-    
-  ],
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
