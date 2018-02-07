@@ -1,5 +1,17 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+
+	background: #622665;
+	background:-webkit-linear-gradient(left, #622665, #7e3772);
+	background:-o-linear-gradient(left, #622665, #7e3772);
+	background:linear-gradient(to right, #622665, #7e3772);
+	color: #fff;
+	font-family: 'Philosopher', sans-serif;
+}
+
+#root {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
 }
