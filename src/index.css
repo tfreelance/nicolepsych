@@ -8,18 +8,18 @@ html, body{
 	background:-o-linear-gradient(left, #622665, #7e3772);
 	background:linear-gradient(to right, #622665, #7e3772);
 	min-width: 500px;
-
 }
 
 body {
 	
-		color: #fff;
+	color: #fff;
 	font-family: 'Philosopher', sans-serif;
 }
 
 #root {
+	height: 100%;
 	display: flex;
-	flex-flow: row wrap;
+	align-items: center;
 	justify-content: center;
 	text-align: center;
 }
