@@ -12,7 +12,7 @@ class App extends Component {
         </div>
         <div>
         <p className="App-contact">
-          <a href="tel:14155859934">+1(415) 484-9934</a>
+          <a href="tel:14155859934">+1(415)484-9934</a>
         </p>
         <p className="App-contact App-lower">
           <a href="mailto:nicole.nemiroff@gmail.com">
